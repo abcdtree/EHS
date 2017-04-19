@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE graphml><graphml>
+<key id="nodename" for="node" attr.name="nodename" attr.type="string"/>
+<graph id="G" edgedefault="directed">
+<node id="1">
+	<data key="nodename">|ROOT|_100.0</data>
+</node>
+<node id="10">
+	<data key="nodename">|ROOT|-|A|_14.09</data>
+</node>
+<node id="100">
+	<data key="nodename">|ROOT|-|A|_14.09</data>
+</node>
+<node id="1000">
+	<data key="nodename">|ROOT|-|A|_14.09</data>
+</node>
+<node id="10000">
+	<data key="nodename">|ROOT|-|A|_14.09</data>
+</node>
+<node id="100000">
+	<data key="nodename">|ROOT|-|A|_14.09</data>
+</node>
+<node id="1000000">
+	<data key="nodename">|ROOT|-|A|_14.09</data>
+</node>
+<node id="10000000">
+	<data key="nodename">|ROOT|-|A|-|G|_8.64</data>
+</node>
+<node id="100000000">
+	<data key="nodename">|ROOT|-|A|-|G|_8.64</data>
+</node>
+<node id="1000000000">
+	<data key="nodename">|ROOT|-|A|-|G|_8.64</data>
+</node>
+<node id="10000000000">
+	<data key="nodename">|ROOT|-|A|-|G|_8.64</data>
+</node>
+<node id="10000001">
+	<data key="nodename">|ROOT|-|A|_5.45</data>
+</node>
+<node id="100000010">
+	<data key="nodename">|ROOT|-|A|_5.45</data>
+</node>
+<node id="1000000100">
+	<data key="nodename">|ROOT|-|A|_5.45</data>
+</node>
+<node id="10000001000">
+	<data key="nodename">|ROOT|-|A|_5.45</data>
+</node>
+<node id="11">
+	<data key="nodename">|ROOT|_85.91</data>
+</node>
+<node id="110">
+	<data key="nodename">|ROOT|-|B|_47.01</data>
+</node>
+<node id="1100">
+	<data key="nodename">|ROOT|-|B|_47.01</data>
+</node>
+<node id="11000">
+	<data key="nodename">|ROOT|-|B|_47.01</data>
+</node>
+<node id="110000">
+	<data key="nodename">|ROOT|-|B|_47.01</data>
+</node>
+<node id="1100000">
+	<data key="nodename">|ROOT|-|B|-|F|_11.48</data>
+</node>
+<node id="11000000">
+	<data key="nodename">|ROOT|-|B|-|F|_11.48</data>
+</node>
+<node id="110000000">
+	<data key="nodename">|ROOT|-|B|-|F|_11.48</data>
+</node>
+<node id="1100000000">
+	<data key="nodename">|ROOT|-|B|-|F|_11.48</data>
+</node>
+<node id="11000000000">
+	<data key="nodename">|ROOT|-|B|-|F|_11.48</data>
+</node>
+<node id="1100001">
+	<data key="nodename">|ROOT|-|B|_35.53</data>
+</node>
+<node id="11000010">
+	<data key="nodename">|ROOT|-|B|_35.53</data>
+</node>
+<node id="110000100">
+	<data key="nodename">|ROOT|-|B|-|H|_13.77</data>
+</node>
+<node id="1100001000">
+	<data key="nodename">|ROOT|-|B|-|H|_13.77</data>
+</node>
+<node id="11000010000">
+	<data key="nodename">|ROOT|-|B|-|H|_13.77</data>
+</node>
+<node id="110000101">
+	<data key="nodename">|ROOT|-|B|_21.76</data>
+</node>
+<node id="1100001010">
+	<data key="nodename">|ROOT|-|B|-|I|_0.97</data>
+</node>
+<node id="11000010100">
+	<data key="nodename">|ROOT|-|B|-|I|_0.97</data>
+</node>
+<node id="1100001011">
+	<data key="nodename">|ROOT|-|B|_20.79</data>
+</node>
+<node id="11000010110">
+	<data key="nodename">|ROOT|-|B|_20.79</data>
+</node>
+<node id="111">
+	<data key="nodename">|ROOT|_38.9</data>
+</node>
+<node id="1110">
+	<data key="nodename">|ROOT|-|C|_17.82</data>
+</node>
+<node id="11100">
+	<data key="nodename">|ROOT|-|C|_17.82</data>
+</node>
+<node id="111000">
+	<data key="nodename">|ROOT|-|C|-|E|_5.54</data>
+</node>
+<node id="1110000">
+	<data key="nodename">|ROOT|-|C|-|E|_5.54</data>
+</node>
+<node id="11100000">
+	<data key="nodename">|ROOT|-|C|-|E|_5.54</data>
+</node>
+<node id="111000000">
+	<data key="nodename">|ROOT|-|C|-|E|_5.54</data>
+</node>
+<node id="1110000000">
+	<data key="nodename">|ROOT|-|C|-|E|_5.54</data>
+</node>
+<node id="11100000000">
+	<data key="nodename">|ROOT|-|C|-|E|_5.54</data>
+</node>
+<node id="111001">
+	<data key="nodename">|ROOT|-|C|_12.28</data>
+</node>
+<node id="1110010">
+	<data key="nodename">|ROOT|-|C|_12.28</data>
+</node>
+<node id="11100100">
+	<data key="nodename">|ROOT|-|C|_12.28</data>
+</node>
+<node id="111001000">
+	<data key="nodename">|ROOT|-|C|_12.28</data>
+</node>
+<node id="1110010000">
+	<data key="nodename">|ROOT|-|C|_12.28</data>
+</node>
+<node id="11100100000">
+	<data key="nodename">|ROOT|-|C|-|J|_5.45</data>
+</node>
+<node id="11100100001">
+	<data key="nodename">|ROOT|-|C|_6.83</data>
+</node>
+<node id="1111">
+	<data key="nodename">|ROOT|_21.08</data>
+</node>
+<node id="11110">
+	<data key="nodename">|ROOT|-|D|_3.63</data>
+</node>
+<node id="111100">
+	<data key="nodename">|ROOT|-|D|_3.63</data>
+</node>
+<node id="1111000">
+	<data key="nodename">|ROOT|-|D|_3.63</data>
+</node>
+<node id="11110000">
+	<data key="nodename">|ROOT|-|D|_3.63</data>
+</node>
+<node id="111100000">
+	<data key="nodename">|ROOT|-|D|_3.63</data>
+</node>
+<node id="1111000000">
+	<data key="nodename">|ROOT|-|D|_3.63</data>
+</node>
+<node id="11110000000">
+	<data key="nodename">|ROOT|-|D|_3.63</data>
+</node>
+<node id="11111">
+	<data key="nodename">|ROOT|_17.45</data>
+</node>
+<node id="111110">
+	<data key="nodename">|ROOT|_17.45</data>
+</node>
+<node id="1111100">
+	<data key="nodename">|ROOT|_17.45</data>
+</node>
+<node id="11111000">
+	<data key="nodename">|ROOT|_17.45</data>
+</node>
+<node id="111110000">
+	<data key="nodename">|ROOT|_17.45</data>
+</node>
+<node id="1111100000">
+	<data key="nodename">|ROOT|_17.45</data>
+</node>
+<node id="11111000000">
+	<data key="nodename">|ROOT|_17.45</data>
+</node>
+<edge source="1" target="10"/>
+<edge source="10" target="100"/>
+<edge source="100" target="1000"/>
+<edge source="1000" target="10000"/>
+<edge source="10000" target="100000"/>
+<edge source="100000" target="1000000"/>
+<edge source="1000000" target="10000000"/>
+<edge source="10000000" target="100000000"/>
+<edge source="100000000" target="1000000000"/>
+<edge source="1000000000" target="10000000000"/>
+<edge source="1000000" target="10000001"/>
+<edge source="10000001" target="100000010"/>
+<edge source="100000010" target="1000000100"/>
+<edge source="1000000100" target="10000001000"/>
+<edge source="1" target="11"/>
+<edge source="11" target="110"/>
+<edge source="110" target="1100"/>
+<edge source="1100" target="11000"/>
+<edge source="11000" target="110000"/>
+<edge source="110000" target="1100000"/>
+<edge source="1100000" target="11000000"/>
+<edge source="11000000" target="110000000"/>
+<edge source="110000000" target="1100000000"/>
+<edge source="1100000000" target="11000000000"/>
+<edge source="110000" target="1100001"/>
+<edge source="1100001" target="11000010"/>
+<edge source="11000010" target="110000100"/>
+<edge source="110000100" target="1100001000"/>
+<edge source="1100001000" target="11000010000"/>
+<edge source="11000010" target="110000101"/>
+<edge source="110000101" target="1100001010"/>
+<edge source="1100001010" target="11000010100"/>
+<edge source="110000101" target="1100001011"/>
+<edge source="1100001011" target="11000010110"/>
+<edge source="11" target="111"/>
+<edge source="111" target="1110"/>
+<edge source="1110" target="11100"/>
+<edge source="11100" target="111000"/>
+<edge source="111000" target="1110000"/>
+<edge source="1110000" target="11100000"/>
+<edge source="11100000" target="111000000"/>
+<edge source="111000000" target="1110000000"/>
+<edge source="1110000000" target="11100000000"/>
+<edge source="11100" target="111001"/>
+<edge source="111001" target="1110010"/>
+<edge source="1110010" target="11100100"/>
+<edge source="11100100" target="111001000"/>
+<edge source="111001000" target="1110010000"/>
+<edge source="1110010000" target="11100100000"/>
+<edge source="1110010000" target="11100100001"/>
+<edge source="111" target="1111"/>
+<edge source="1111" target="11110"/>
+<edge source="11110" target="111100"/>
+<edge source="111100" target="1111000"/>
+<edge source="1111000" target="11110000"/>
+<edge source="11110000" target="111100000"/>
+<edge source="111100000" target="1111000000"/>
+<edge source="1111000000" target="11110000000"/>
+<edge source="1111" target="11111"/>
+<edge source="11111" target="111110"/>
+<edge source="111110" target="1111100"/>
+<edge source="1111100" target="11111000"/>
+<edge source="11111000" target="111110000"/>
+<edge source="111110000" target="1111100000"/>
+<edge source="1111100000" target="11111000000"/>
+</graph>
+</graphml>

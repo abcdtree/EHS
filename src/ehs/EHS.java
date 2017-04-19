@@ -16,6 +16,9 @@ public class EHS {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        BETree bet = new BETree(10);
+        bet.outputCSV("./testOutput.csv",true);
+        bet.simuBulk("./testOutBulk.txt");
     }
     
 }

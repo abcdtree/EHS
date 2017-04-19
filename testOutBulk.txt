@@ -1,0 +1,13 @@
+Tumor Purity:	96.37
+Number of Mutations:	10
+Mutations	VAF
+|A|	14.09
+|B|	47.01
+|C|	17.82
+|D|	3.63
+|E|	5.54
+|F|	11.48
+|G|	8.64
+|H|	13.77
+|I|	0.97
+|J|	5.45
